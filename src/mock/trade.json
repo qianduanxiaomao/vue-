@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1361",
+        "userAddress": "北京市朝阳区远洋天地5号楼15",
+        "fullAddress": "北京市朝阳区远洋天地5号楼15",
+        "userId": "2",
+        "provinceId": "1",
+        "consignee": "陈平安",
+        "phoneNum": "1353654115",
+        "isDefault": "0",
+        "regionId": "1"
+    },
+    {
+        "id": "1363",
+        "userAddress": "重庆市渝北区",
+        "fullAddress": "重庆渝中区",
+        "userId": "2",
+        "provinceId": "1",
+        "consignee": "宁姚",
+        "phoneNum": "13555555555",
+        "isDefault": "0",
+        "regionId": "1"
+    },
+    {
+        "id": "1364",
+        "userAddress": "重庆市丰都县",
+        "fullAddress": "重庆市丰都县",
+        "userId": "2",
+        "provinceId": "24",
+        "consignee": "李七夜",
+        "phoneNum": "134444444445",
+        "isDefault": "1",
+        "regionId": "1"
+    },
+    {
+        "id": "1365",
+        "userAddress": "重庆市渝中区",
+        "fullAddress": "重庆市渝中区",
+        "userId": "2",
+        "provinceId": "26",
+        "consignee": "小毛",
+        "phoneNum": "13365471275",
+        "isDefault": "0",
+        "regionId": "1"
+    }
+]
