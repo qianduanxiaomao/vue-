@@ -1,5 +1,5 @@
 <template>
-<!-- 轮播图 -->
+  <!-- 轮播图 -->
   <div class="swiper-container" ref="cur">
     <div class="swiper-wrapper">
       <div
@@ -35,7 +35,7 @@ export default {
         this.$nextTick(() => {
           var mySwiper = new Swiper(this.$refs.cur, {
             loop: true, // 循环模式选项
-
+            autoplay: true,
             // 如果需要分页器
             pagination: {
               el: '.swiper-pagination',
