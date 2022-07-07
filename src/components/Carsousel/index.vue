@@ -34,8 +34,9 @@ export default {
         // 只能监听到数据是否已经有了，但是v-for动态渲染结构我们还是没有办法确定的，因此还是需要用nextTick
         this.$nextTick(() => {
           var mySwiper = new Swiper(this.$refs.cur, {
-            loop: true, // 循环模式选项
             autoplay: true,
+            loop: true, // 循环模式选项
+            
             // 如果需要分页器
             pagination: {
               el: '.swiper-pagination',
